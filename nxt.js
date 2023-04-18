@@ -1,4 +1,4 @@
-/* function sumArray() {
+function sumArray() {
   //take the number of passed levels
   // var levels = parseInt(readLine(),10);
   var levels = require("readline");
@@ -71,4 +71,3 @@ function getWeekDay(year, month, day) {
   var day = d.getDay();
   return names[day];
 }
- */
