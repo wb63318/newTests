@@ -1,0 +1,7 @@
+to install packages in nodejs CLI
+Use command: npm install package_name; For example : 'npm install uuid inquirer' to install uuid inquirer dependencies;
+install = 'i',
+create file in vscode cli; Use: " echo > fileName.type " OR { echo > "file.type"};
+Use 'Export' keyword when you know the file will be called in another file
+
+
